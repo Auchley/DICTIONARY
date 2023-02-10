@@ -1,4 +1,4 @@
-'''Data Program Student Dictionary'''
+'''Data Program Student Library'''
 import datetime
 import os
 import string
